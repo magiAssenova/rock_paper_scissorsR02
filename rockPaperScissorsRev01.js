@@ -38,6 +38,7 @@ else if ((playerturn===rock && computerTurn==scissors) || (playerturn==paper && 
 else {
     console.log("You loose!")
 }
+console.log("Maggi's first attempt to create a simple game")
 
 }
 rockPpaerScissors("s")
